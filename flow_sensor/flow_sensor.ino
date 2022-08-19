@@ -1,4 +1,3 @@
-// web: http://www.RinkyDinkElectronics.com/
 // This program requires the UTFT library.
 //
 
