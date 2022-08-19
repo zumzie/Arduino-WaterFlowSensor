@@ -2,7 +2,7 @@
 Reads how much water goes through the sensor and converts to liters. I added the UFTF library so the sensor results could display on a TFT LCD screen. 
 
 # Flower.c
-Just 
+Image of flower
 
 
 
