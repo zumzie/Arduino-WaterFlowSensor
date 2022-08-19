@@ -1,13 +1,4 @@
-// UTFT_Demo_480x320 
-// Copyright (C)2015 Rinky-Dink Electronics, Henning Karlsen. All right reserved
 // web: http://www.RinkyDinkElectronics.com/
-//
-// This program is a demo of how to use most of the functions
-// of the library with a supported display modules.
-//
-// This demo was made for modules with a screen resolution 
-// of 480x320 pixels.
-//
 // This program requires the UTFT library.
 //
 
@@ -17,19 +8,6 @@
 extern uint8_t SmallFont[];
 extern uint8_t BigFont[];
 
-// Set the pins to the correct ones for your development shield
-// ------------------------------------------------------------
-// Arduino Uno / 2009:
-// -------------------
-// Standard Arduino Uno/2009 shield            : <display model>,A5,A4,A3,A2
-// DisplayModule Arduino Uno TFT shield        : <display model>,A5,A4,A3,A2
-//
-// Arduino Mega:
-// -------------------
-// Standard Arduino Mega/Due shield            : <display model>,38,39,40,41
-// CTE TFT LCD/SD Shield for Arduino Mega      : <display model>,38,39,40,41
-//
-// Remember to change the model parameter to suit your display module!
 
 volatile int flow_frequency; // Measures flow sensor pulses
 
